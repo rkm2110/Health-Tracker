@@ -1,6 +1,5 @@
 const express = require('express');
 const cors = require('cors');
-const sqlite3 = require('sqlite3').verbose();
 const path = require('path');
 const multer = require('multer');
 require('dotenv').config();
@@ -29,14 +28,20 @@ if (process.env.TURSO_DATABASE_URL && process.env.TURSO_AUTH_TOKEN) {
     });
     console.log('Connected to Turso cloud database.');
 } else {
-    const dbPath = path.resolve(__dirname, '../../data/health_tracker.db');
-    db = new sqlite3.Database(dbPath, (err) => {
-        if (err) {
-            console.error('Error connecting to local database:', err.message);
-        } else {
-            console.log('Connected to the local SQLite health_tracker database.');
-        }
-    });
+    try {
+        const sqlite3 = require('sqlite3').verbose();
+        const dbPath = path.resolve(__dirname, '../../data/health_tracker.db');
+        db = new sqlite3.Database(dbPath, (err) => {
+            if (err) {
+                console.error('Error connecting to local database:', err.message);
+            } else {
+                console.log('Connected to the local SQLite health_tracker database.');
+            }
+        });
+    } catch (e) {
+        console.error('SQLite3 not installed, and Turso keys missing. Cannot connect to database.');
+        process.exit(1);
+    }
 }
 
 // Global DB helpers
