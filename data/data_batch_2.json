@@ -1,0 +1,422 @@
+[
+  {
+    "log_date": "2026-06-30",
+    "cycle_day": 1,
+    "water_count": 0,
+    "susu_count": 0,
+    "bowel_movement_count": 1,
+    "bowel_movement_complete": "Incomplete",
+    "bowel_movement_scale": 5,
+    "exercise": "",
+    "supporting_therapy": "zinc carnosine",
+    "sleep_time": "11.36 PM",
+    "sleep_wakeups": 3,
+    "meals": [
+      {
+        "meal_type": "Breakfast",
+        "food_items": "Akki roti, with 1 egg, blueberry, 1 piece of dark chocolate"
+      },
+      {
+        "meal_type": "Lunch",
+        "food_items": "Turmeric rice, broccoli, carrots - steamed, small handful of fries, grapes"
+      },
+      {
+        "meal_type": "Evening snack",
+        "food_items": "water lilly seeds with mustard oil, and salt, moodi with the same"
+      },
+      {
+        "meal_type": "Dinner",
+        "food_items": "lauki sabzi, bajra roti, mustard oil chutney with jeera"
+      }
+    ],
+    "supplements": [
+      {
+        "timing": "Morning",
+        "supplement_name": "L glutamine, NAC, colostrum"
+      },
+      {
+        "timing": "Breakfast",
+        "supplement_name": "Power digest, magnesium"
+      },
+      {
+        "timing": "Lunch",
+        "supplement_name": "Power digest, Fodmate, pancreatic enzyme, gut motility, CoQ10"
+      },
+      {
+        "timing": "Dinner",
+        "supplement_name": "Power digest"
+      }
+    ],
+    "symptoms": [
+      {
+        "timing": "Morning",
+        "symptom_name": "period cramp",
+        "severity": 2
+      },
+      {
+        "timing": "Morning",
+        "symptom_name": "nausea",
+        "severity": 1
+      },
+      {
+        "timing": "Breakfast",
+        "symptom_name": "nausea",
+        "severity": null
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "cramps",
+        "severity": 1
+      },
+      {
+        "timing": "Sleep",
+        "symptom_name": "morning cramps",
+        "severity": 3
+      }
+    ]
+  },
+  {
+    "log_date": "2026-06-29",
+    "cycle_day": 25,
+    "water_count": 0,
+    "susu_count": 0,
+    "bowel_movement_count": 1,
+    "bowel_movement_complete": "Incomplete",
+    "bowel_movement_scale": 3,
+    "exercise": "",
+    "supporting_therapy": "red light therapy",
+    "sleep_time": "10.00 PM",
+    "sleep_wakeups": 4,
+    "meals": [
+      {
+        "meal_type": "Breakfast",
+        "food_items": "akki roti, green cutney without garlic, 1 cup blue berries"
+      },
+      {
+        "meal_type": "Lunch",
+        "food_items": "Bajra roti, cabbage sabji, mango"
+      },
+      {
+        "meal_type": "Dinner",
+        "food_items": "dry moongdaal, rice"
+      }
+    ],
+    "supplements": [
+      {
+        "timing": "Morning",
+        "supplement_name": "L-glutamine"
+      },
+      {
+        "timing": "Breakfast",
+        "supplement_name": "gut motility, raspberry tea leaf, NAC, COQ10"
+      },
+      {
+        "timing": "Lunch",
+        "supplement_name": "Power digest"
+      },
+      {
+        "timing": "Dinner",
+        "supplement_name": "Powerdigest, fodmate, omega 3, zinc"
+      },
+      {
+        "timing": "Sleep",
+        "supplement_name": "0.5mg melatonin, NAC"
+      }
+    ],
+    "symptoms": [
+      {
+        "timing": "Morning",
+        "symptom_name": "below navel cramping",
+        "severity": 2
+      },
+      {
+        "timing": "Breakfast",
+        "symptom_name": "uterus cramping",
+        "severity": 2
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "uterus cramping",
+        "severity": 2
+      },
+      {
+        "timing": "Dinner",
+        "symptom_name": "Itchy dots on skin on whole body",
+        "severity": null
+      },
+      {
+        "timing": "Sleep",
+        "symptom_name": "uterus cramps",
+        "severity": 4
+      }
+    ]
+  },
+  {
+    "log_date": "2026-06-28",
+    "cycle_day": 24,
+    "water_count": 0,
+    "susu_count": 0,
+    "bowel_movement_count": 1,
+    "bowel_movement_complete": "complete",
+    "bowel_movement_scale": 4,
+    "exercise": "yoga",
+    "supporting_therapy": "red light therapy",
+    "sleep_time": "10.30 PM",
+    "sleep_wakeups": 5,
+    "meals": [
+      {
+        "meal_type": "Breakfast",
+        "food_items": "moodi, with bujia, no onion, 1 cup chai"
+      },
+      {
+        "meal_type": "Lunch",
+        "food_items": "Cilantro rice, steamed broccoli, sunflower seeds, variety of sauces"
+      },
+      {
+        "meal_type": "Evening snack",
+        "food_items": "Roasted marshmallow tea"
+      },
+      {
+        "meal_type": "Dinner",
+        "food_items": "1 egg white, rice, 2 pineapple pieces"
+      }
+    ],
+    "supplements": [
+      {
+        "timing": "Morning",
+        "supplement_name": "colostrum"
+      },
+      {
+        "timing": "Breakfast",
+        "supplement_name": "Power digest, spectrazyme, fodmate"
+      },
+      {
+        "timing": "Lunch",
+        "supplement_name": "Power digest, spectrazyme fodmate, CoQ10"
+      },
+      {
+        "timing": "Dinner",
+        "supplement_name": "Power digest"
+      },
+      {
+        "timing": "Sleep",
+        "supplement_name": "NAC, zinc carnosine, gut motility"
+      }
+    ],
+    "symptoms": [
+      {
+        "timing": "Dinner",
+        "symptom_name": "Stomach distension",
+        "severity": 1
+      },
+      {
+        "timing": "Dinner",
+        "symptom_name": "below naval pain/tenderness",
+        "severity": 1
+      },
+      {
+        "timing": "Sleep",
+        "symptom_name": "Insomnia, abdominal pain from 3 to 5 am",
+        "severity": null
+      }
+    ]
+  },
+  {
+    "log_date": "2026-06-27",
+    "cycle_day": 23,
+    "water_count": 0,
+    "susu_count": 0,
+    "bowel_movement_count": 1,
+    "bowel_movement_complete": "Incomplete",
+    "bowel_movement_scale": 3,
+    "exercise": "Stretching",
+    "supporting_therapy": "red light therapy",
+    "sleep_time": "12.00 PM",
+    "sleep_wakeups": 5,
+    "meals": [
+      {
+        "meal_type": "Lunch",
+        "food_items": "sweet potato, with cucumber, 1 tsp peanut, green chutney without garlic, 3 tbsp Pineapple"
+      },
+      {
+        "meal_type": "Evening snack",
+        "food_items": "1/2 cup chai, water lily seeds, 4 tbsp aloo bhujia"
+      },
+      {
+        "meal_type": "Dinner",
+        "food_items": "sweet potato with green onion, green peast, rice, 1 egg white"
+      }
+    ],
+    "supplements": [
+      {
+        "timing": "Morning",
+        "supplement_name": "Triphala, colostrum"
+      },
+      {
+        "timing": "Lunch",
+        "supplement_name": "Power digest"
+      },
+      {
+        "timing": "Dinner",
+        "supplement_name": "Power digest"
+      },
+      {
+        "timing": "Sleep",
+        "supplement_name": "gut motility, zinc carnosine"
+      }
+    ],
+    "symptoms": [
+      {
+        "timing": "Morning",
+        "symptom_name": "Pain above naval",
+        "severity": 4
+      },
+      {
+        "timing": "Morning",
+        "symptom_name": "urinary urgency",
+        "severity": 1
+      },
+      {
+        "timing": "Morning",
+        "symptom_name": "bladder pressure",
+        "severity": 1
+      },
+      {
+        "timing": "Morning",
+        "symptom_name": "bloating over abdominal tenderness",
+        "severity": null
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "pain abovel naval",
+        "severity": 0
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "urinary urgency",
+        "severity": 0
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "bladder pressure",
+        "severity": 0
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "bloating",
+        "severity": 0
+      },
+      {
+        "timing": "Sleep",
+        "symptom_name": "Nightmares",
+        "severity": null
+      }
+    ]
+  },
+  {
+    "log_date": "2026-06-26",
+    "cycle_day": 22,
+    "water_count": 3,
+    "susu_count": 4,
+    "bowel_movement_count": 1,
+    "bowel_movement_complete": "Incomplete",
+    "bowel_movement_scale": 4,
+    "exercise": "Stretching",
+    "supporting_therapy": "Red light therapy, humming",
+    "sleep_time": "10.45 PM",
+    "sleep_wakeups": 6,
+    "meals": [
+      {
+        "meal_type": "Breakfast",
+        "food_items": "Akki roti with gajar, green chutney, 1 piece of papaya, 4 cherries, tiny piece of chocolate"
+      },
+      {
+        "meal_type": "Lunch",
+        "food_items": "ghiya, chawal, mango, 4 cherries"
+      },
+      {
+        "meal_type": "Dinner",
+        "food_items": "rice pasta with broccoli, handful of peanuts, lots of cherries, water lilly seeds"
+      }
+    ],
+    "supplements": [
+      {
+        "timing": "Morning",
+        "supplement_name": "L-glutamine"
+      },
+      {
+        "timing": "Breakfast",
+        "supplement_name": "Power digest, omega 3, zinc carnosine"
+      },
+      {
+        "timing": "Lunch",
+        "supplement_name": "PoA, Fodmate, pancreatic enzey, power digest"
+      },
+      {
+        "timing": "Dinner",
+        "supplement_name": "Power digest"
+      },
+      {
+        "timing": "Sleep",
+        "supplement_name": "magnesium, melotonin, B12"
+      }
+    ],
+    "symptoms": [
+      {
+        "timing": "Morning",
+        "symptom_name": "urinary urgency",
+        "severity": 3
+      },
+      {
+        "timing": "Morning",
+        "symptom_name": "bladder pressure",
+        "severity": 3
+      },
+      {
+        "timing": "Morning",
+        "symptom_name": "abdominal pain above bladder",
+        "severity": 3
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "urinary urgency",
+        "severity": 2
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "bladder pressure",
+        "severity": 2
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "abdominal pain above bladder",
+        "severity": 3
+      },
+      {
+        "timing": "Lunch",
+        "symptom_name": "right pelvic pain",
+        "severity": 2
+      },
+      {
+        "timing": "Sleep",
+        "symptom_name": "Raw feeling above naval",
+        "severity": 4
+      },
+      {
+        "timing": "Sleep",
+        "symptom_name": "urinary pressure",
+        "severity": 2
+      },
+      {
+        "timing": "Sleep",
+        "symptom_name": "bladder pain",
+        "severity": 2
+      },
+      {
+        "timing": "Sleep",
+        "symptom_name": "pain over navel",
+        "severity": 4
+      }
+    ]
+  }
+]

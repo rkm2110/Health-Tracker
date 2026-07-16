@@ -1,0 +1,7 @@
+node_modules/
+.env
+data/health_tracker.db
+data/health_tracker.db-journal
+.gemini/
+__pycache__/
+*.log
